@@ -1,0 +1,40 @@
+*{
+	margin: 3;
+	padding: 3;
+	box-sizing: border-box;
+	background-color:#8bcd7c;
+}
+.menus{
+	background-color:#018b32;
+	padding: 12px;
+	width: 80%;
+	margin:0 auto;
+
+}
+.lunes{
+	background-color:#018b32;
+	padding: 5px;
+	border-radius: 20px;
+	font-weight: bold;
+
+}
+.martes{
+	background-color:#018b32; 
+	padding: 15px;
+	border-radius: 50px;
+	font-weight: bold;
+}
+.miercoles{
+background-color:#018b32; 
+	padding: 15px;
+	border-radius: 50px;
+	font-weight: bold;
+}
+.jueves{
+	background-color:#018b32; 
+	padding: 5px;
+	border-radius: 20px;
+	font-weight: bold;
+}
+
+}
